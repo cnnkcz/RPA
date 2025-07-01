@@ -17,7 +17,7 @@ kullanici_adi_kutusu = driver.find_element(By.NAME, "username")
 kullanici_adi_kutusu.send_keys("cnnkcz")
 
 sifre_kutusu = driver.find_element(By.NAME, "password")
-sifre_kutusu.send_keys("Cnn7kcz+")
+sifre_kutusu.send_keys("bbb")
 
 time.sleep(3)
 
